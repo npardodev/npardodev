@@ -21,11 +21,10 @@ Algunos lenguajes y herramientas que utilizo:
  ✅  Como herramientas de versionado, test y deploy utilizo:
  - Github, BitBucket y Amazon Web Services
 
-Sobre mi
-  🤔   Me consideron una persona curiosa y me interesa enfrentarme a nuevos desafios.
-  🎶   En mi tiempo libre me gusta escuchar música y tocar algunos instrumentos como hobbie.
-  🏀   Definitivamente, mi deporte es el Basquet.
+Me consideron una persona curiosa 🤔 y me interesa enfrentarme a nuevos desafios.
+En mi tiempo libre me gusta escuchar música y tocar algunos instrumentos como hobbie 🎶.
+Definitivamente, mi deporte es el 🏀.
 
 Get in touch:
- -🔹 Linkedin: https://www.linkedin.com/in/nicolaspardo/ 
- -🔹 E-mail : npardo.dev@gmail.com 
+ - Linkedin: https://www.linkedin.com/in/nicolaspardo/ 
+ - E-mail : npardo.dev@gmail.com 
