@@ -9,9 +9,9 @@ Actualmente me encuentro estudiando para convertirme en desarrollador Full Stack
 
 Algunos lenguajes y herramientas que utilizo:
 
-💻   C / C++ | Python.
-🌐   HTML | CSS | JavaScript | Bootstrap .
-📂  MySQL  |  SQLite3.
+- 💻   C / C++ | Python.
+- 🌐   HTML | CSS | JavaScript | Bootstrap .
+- 📂  MySQL  |  SQLite3.
  
 🔭 Y me encuentro capacitandome en: 
  - MongoDB.
