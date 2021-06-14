@@ -1,4 +1,4 @@
-Hola! soy Nicolas
+👋  Hola! soy Nicolas
 
 Soy técnico electrónico y estudiante de Ing. Electrónica.
 Trabajo en el rubro IT hace mas de 5 años sobre todo en mantenimiento de infraestructura y soporte.
