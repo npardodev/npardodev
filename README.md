@@ -27,5 +27,5 @@ Sobre mi
 🏀   Definitivamente, mi deporte es el Basquet.
 
 Get in touch:
--🔹Linkedin: https://www.linkedin.com/in/nicolaspardo/ 
--🔹 E-mail : npardo.dev@gmail.com 
+ -🔹Linkedin: https://www.linkedin.com/in/nicolaspardo/ 
+ -🔹 E-mail : npardo.dev@gmail.com 
